@@ -6,7 +6,7 @@ Seja bem vindo ao meu repositório onde coloco todos meus projetos de
 
 
 ## 🚀 Sobre mim
-Eu sou estudante de ciência da computação e futuro dev fullstack JAVA/ANGULAR
+Eu sou estudante de ciência da computação e futuro dev fullstack
 
 
 ## 🔗 Links
